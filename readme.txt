@@ -1,5 +1,3 @@
-Git is a version control system.
-Git is free software.
-Git is now next
-Git is nerx self
+Git is a disteibuted version control system.
+Git is as free software distributed under the GPL.
 
