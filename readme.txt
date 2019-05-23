@@ -5,3 +5,5 @@ Git is wind qin
 Git tracks changes of files.
 Git is qin  wind
 Creating a new branch is quick and simple.
+Git what are you doing?
+Git do you have next!
