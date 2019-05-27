@@ -7,3 +7,4 @@ Git is qin  wind
 Creating a new branch is quick and simple.
 Git what are you doing?
 Git do you have next!
+Git this si test!
